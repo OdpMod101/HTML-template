@@ -1,0 +1,22 @@
+
+body {
+    background-color: #1a1a1a;  /* Ciemnoszare, nowoczesne tło */
+    color: #ffffff;             /* Biały, czytelny tekst */
+    font-family: sans-serif;    /* Prosta czcionka, bez brzydkich szeryfów */
+}
+
+
+h1 {
+    color: #ff4500;             /* Zmieniamy kolor tytułu na pomarańczowy */
+    text-align: center;         /* Środkujemy tekst na ekranie */
+    margin-top: 50px;           /* Dodajemy odstęp od góry strony */
+}
+
+
+button {
+    background-color: #007bff;  /* Niebieskie tło */
+    color: white;               /* Biały napis */
+    border-radius: 8px;         /* Zaokrąglone rogi przycisku */
+    padding: 10px 20px;         /* Powiększamy przycisk, żeby łatwo było klikać na telefonie */
+    border: none;               /* Usuwamy domyślną, brzydką ramkę */
+}
